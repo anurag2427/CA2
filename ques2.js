@@ -12,7 +12,7 @@ function ReadAppend(file, appendFile){
     });
   });
 }
-// edit this with your file names
+
 file = 'text1.txt';
 appendFile = 'text2.txt';
 ReadAppend(file, appendFile);
